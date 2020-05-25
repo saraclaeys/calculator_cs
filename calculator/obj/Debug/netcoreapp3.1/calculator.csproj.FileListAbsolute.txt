@@ -1,0 +1,12 @@
+C:\Users\sarac\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+C:\Users\sarac\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+C:\Users\sarac\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+C:\Users\sarac\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+C:\Users\sarac\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+C:\Users\sarac\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\sarac\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+C:\Users\sarac\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+C:\Users\sarac\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+C:\Users\sarac\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+C:\Users\sarac\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\sarac\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
